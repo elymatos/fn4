@@ -5,6 +5,7 @@ flowchart BT
 	role2 --> frame
 	role1 --> concept
 	role2 --> concept
+	concept --> frame
 	lemma --> concept
 	lex1 --> lemma
 	lex2 --> lemma
