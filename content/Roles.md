@@ -38,6 +38,7 @@ flowchart BT
 
 - Function
 - Intention
+- Purpose
 - Goal
 - Result
 - Destination
