@@ -1,3 +1,4 @@
+
 ```mermaid
 flowchart BT
 	role1 --> frame
@@ -11,6 +12,7 @@ flowchart BT
 	wordform2 --> lex2
 	cxn --> frame
 	cxn --> concept
+
 ```
 
 - ROLES são relações qualia (agentive, telic, constitutive, formal) detalhadas
